@@ -21,7 +21,7 @@ To get started with this project, you have two options:
    - Use the following link to clone the repository to your local machine:
     
      ```bash
-     git clone https://github.com/Jomonh/Note-Sharing-Web-Application.git
+     git clone https://github.com/Jomon-J/Note-Sharing-Web-Application.git
 
      
    - Once cloned, navigate to the project directory:
